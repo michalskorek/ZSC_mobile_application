@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZSC_application</string>
+    <string name="lf">LF</string>
+    <string name="lb">LB</string>
+    <string name="rb">RB</string>
+    <string name="rf">RF</string>
+    <string name="backward">BACKWARD</string>
+    <string name="stop">STOP</string>
+    <string name="forward">FORWARD</string>
+</resources>
